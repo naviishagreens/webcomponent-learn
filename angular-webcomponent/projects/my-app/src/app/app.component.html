@@ -1,0 +1,15 @@
+my-app app component
+
+<div>
+    <div><button (click)="sum()">Sum me</button></div>
+    <div><button (click)="mul()">Mul me</button></div>
+</div>
+
+<!-- below is from angular library -->
+<lib-basic-comp></lib-basic-comp>
+<!-- <lib-second-comp></lib-second-comp> -->
+
+<!-- below is from plainjs library -->
+<button (click)="myname='hw12'">change name</button>
+<search-result [attr.name-attribute]="myname"></search-result>
+<div [attr.name-attribute]="myname">hello</div>
