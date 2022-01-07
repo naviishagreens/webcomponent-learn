@@ -1,0 +1,15 @@
+{
+  "name": "@navisha/plainjs",
+  "version": "1.0.5",
+  "description": "",
+  "main": "main.js",
+  "types": "types/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
