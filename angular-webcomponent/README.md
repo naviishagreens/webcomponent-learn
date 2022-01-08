@@ -14,3 +14,7 @@ somehow webcomponent was not treeshakable
 
 pending:
 publish angular library web componenent
+
+
+
+ng build --vendor-chunk=true

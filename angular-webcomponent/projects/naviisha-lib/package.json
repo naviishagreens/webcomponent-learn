@@ -1,6 +1,7 @@
 {
-  "name": "naviisha-lib",
+  "name": "@naviisha/naviisha-lib",
   "version": "0.0.1",
+  "private": false,
   "peerDependencies": {
     "@angular/common": "^12.1.0",
     "@angular/core": "^12.1.0"
